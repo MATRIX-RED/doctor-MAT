@@ -27,6 +27,7 @@ This project brings style, automation, and intelligence to your Termux terminal 
 ## 🚀 Installation Instructions
 
 ```bash
+git clone https://github.com/MATRIX-RED/doctor-MAT.git
 cd ~/storage/downloads/Matrix-Termux-Style
 chmod +x install.sh gptmat.sh splash.sh
 bash install.sh
